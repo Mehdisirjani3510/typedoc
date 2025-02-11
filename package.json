@@ -42,7 +42,7 @@
     "@types/node": "18",
     "@typestrong/fs-fixture-builder": "github:TypeStrong/fs-fixture-builder#34113409e3a171e68ce5e2b55461ef5c35591cfe",
     "c8": "^10.1.2",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.0",
     "eslint": "^9.15.0",
     "mocha": "^10.8.2",
     "prettier": "3.3.3",
